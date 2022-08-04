@@ -1,11 +1,7 @@
-#status {
-    font-size: 23px;
-    background-color: rgb(243, 184, 75);
-    color:black;
-    width:20%;
-    padding:20px;
-    
-}
+ #status,  #objectNumber, #start {
+   font-size:22px;
+    padding:10px; 
+} 
 
 body {
     background-size: cover;
